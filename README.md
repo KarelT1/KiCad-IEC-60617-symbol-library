@@ -48,3 +48,4 @@ Check out [another project of mine](https://github.com/KarelT1/Star-Delta-Starte
 * **Other symbols:**
   * Signal lamp
   * Transformer (1-pole)
+  * Alarm / Siren
