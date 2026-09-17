@@ -45,3 +45,6 @@ Check out [another project of mine](https://github.com/KarelT1/Star-Delta-Starte
   * Motor induction 3-pole
   * Motor phase 3-pole
   * Motor protection
+* **Other symbols:**
+  * Signal lamp
+  * Transformer (1-pole)
