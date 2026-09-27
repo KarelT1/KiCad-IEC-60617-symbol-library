@@ -6121,9 +6121,6 @@
 		(embedded_fonts no)
 	)
 	(symbol "Time_relay_delayed_operate_coil"
-		(pin_numbers
-			(hide yes)
-		)
 		(pin_names
 			(offset 0)
 			(hide yes)
@@ -6300,9 +6297,6 @@
 		(embedded_fonts no)
 	)
 	(symbol "Time_relay_delayed_return_coil"
-		(pin_numbers
-			(hide yes)
-		)
 		(pin_names
 			(offset 0)
 			(hide yes)
