@@ -2520,33 +2520,33 @@
 			)
 		)
 		(symbol "Delayed_operate_contact_NC_1_1"
-			(bezier
-				(pts
-					(xy -2.3055 0.2385) (xy -1.6695 0.159) (xy -1.5105 -0.3975) (xy -1.5105 -0.3975)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(bezier
-				(pts
-					(xy -2.3055 -1.272) (xy -1.6695 -1.1925) (xy -1.5105 -0.636) (xy -1.5105 -0.636)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(polyline
 				(pts
 					(xy -1.5105 -0.3975) (xy -1.5105 -0.636)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.7155 0.2385) (xy -1.3515 0.159) (xy -1.5105 -0.3975) (xy -1.5105 -0.3975)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.7155 -1.272) (xy -1.3515 -1.1925) (xy -1.5105 -0.636) (xy -1.5105 -0.636)
 				)
 				(stroke
 					(width 0)
@@ -2712,33 +2712,33 @@
 			)
 		)
 		(symbol "Delayed_operate_contact_NO_1_1"
-			(bezier
-				(pts
-					(xy -3.5378 0.1193) (xy -2.9018 0.0398) (xy -2.7428 -0.5167) (xy -2.7428 -0.5167)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(bezier
-				(pts
-					(xy -3.5378 -1.3912) (xy -2.9018 -1.3117) (xy -2.7428 -0.7552) (xy -2.7428 -0.7552)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(polyline
 				(pts
 					(xy -2.7428 -0.5167) (xy -2.7428 -0.7552)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.9478 0.1193) (xy -2.5838 0.0398) (xy -2.7428 -0.5167) (xy -2.7428 -0.5167)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.9478 -1.3912) (xy -2.5838 -1.3117) (xy -2.7428 -0.7552) (xy -2.7428 -0.7552)
 				)
 				(stroke
 					(width 0)
@@ -2912,33 +2912,33 @@
 			)
 		)
 		(symbol "Delayed_return_contact_NC_1_1"
+			(bezier
+				(pts
+					(xy -2.3055 0.2385) (xy -1.6695 0.159) (xy -1.5105 -0.3975) (xy -1.5105 -0.3975)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -2.3055 -1.272) (xy -1.6695 -1.1925) (xy -1.5105 -0.636) (xy -1.5105 -0.636)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(polyline
 				(pts
 					(xy -1.5105 -0.3975) (xy -1.5105 -0.636)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(bezier
-				(pts
-					(xy -0.7155 0.2385) (xy -1.3515 0.159) (xy -1.5105 -0.3975) (xy -1.5105 -0.3975)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(bezier
-				(pts
-					(xy -0.7155 -1.272) (xy -1.3515 -1.1925) (xy -1.5105 -0.636) (xy -1.5105 -0.636)
 				)
 				(stroke
 					(width 0)
@@ -3104,33 +3104,33 @@
 			)
 		)
 		(symbol "Delayed_return_contact_NO_1_1"
+			(bezier
+				(pts
+					(xy -3.5378 0.1193) (xy -2.9018 0.0398) (xy -2.7428 -0.5167) (xy -2.7428 -0.5167)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -3.5378 -1.3912) (xy -2.9018 -1.3117) (xy -2.7428 -0.7552) (xy -2.7428 -0.7552)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(polyline
 				(pts
 					(xy -2.7428 -0.5167) (xy -2.7428 -0.7552)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(bezier
-				(pts
-					(xy -1.9478 0.1193) (xy -2.5838 0.0398) (xy -2.7428 -0.5167) (xy -2.7428 -0.5167)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(bezier
-				(pts
-					(xy -1.9478 -1.3912) (xy -2.5838 -1.3117) (xy -2.7428 -0.7552) (xy -2.7428 -0.7552)
 				)
 				(stroke
 					(width 0)
@@ -5832,7 +5832,7 @@
 		(on_board no)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "S"
+		(property "Reference" "F"
 			(at 3.81 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5988,7 +5988,7 @@
 		(on_board no)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "S"
+		(property "Reference" "F"
 			(at 2.54 0 0)
 			(show_name no)
 			(do_not_autoplace no)
